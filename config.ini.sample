@@ -1,0 +1,11 @@
+[settings]
+ontvangers = +316123456,+31623455678
+rosa_url = https://www.rosasoftware.com/portal/
+rosa_nummer = 1234
+
+[login_data]
+bureau_id = 1234
+lok_id = 0
+type = 1
+username = email@host.com
+password = password123456
